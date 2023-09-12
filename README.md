@@ -1,2 +1,2 @@
 # ML_IPL-WINPredictor
-This is an IPL win prediction web app.
+This is an IPL Win Prediction Web App.
